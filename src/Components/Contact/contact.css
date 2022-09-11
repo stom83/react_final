@@ -1,0 +1,19 @@
+
+.form-contact {
+  background-color: RGB(29, 118, 209);
+  min-height: 50vh;
+  display: flex;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  box-shadow: 10px 10px 5px 0px rgb(0 0 0 / 75%);
+  border-radius: 0.8rem;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  padding: 1rem;
+  margin: 1rem;
+}
+.form-div {
+  margin: 1rem;
+  padding: 1rem;
+}
