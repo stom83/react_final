@@ -9,15 +9,13 @@ import IconButton from '@mui/material/IconButton';
 import MenuIcon from '@mui/icons-material/Menu';
 import LoginIcon from '@mui/icons-material/Login';
 import WorkIcon from '@mui/icons-material/Work';
+import HomeCV from './HomeCV';
 // ============= ROUTES ================
 import { NavLink } from 'react-router-dom';
 //=====================================
 const Home = ()=>{
-  const Studies = ()=> {
-    console.log('hola');
-    return(<NavLink to='/studies'></NavLink>)};
   return(
-<Fragment>
+<>
       <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar>
@@ -42,7 +40,7 @@ const Home = ()=>{
         </Toolbar>
       </AppBar>
     </Box>
-    </Fragment>
+    </>
   );
   };
   export default Home;
