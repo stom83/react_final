@@ -7,6 +7,7 @@ import Studies from './Components/Studies/Studies';
 import Experience from './Components/Experience/Experience';
 import Projects from './Components/Projects/Projects';
 import Contact from './Components/Contact/Contact';
+import Login from './Components/Login/Login';
 import NotFound from './Components/NotFound';
 import Home from './Components/Home/Home';
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -19,6 +20,7 @@ root.render(
     <Route path='/experience' element={<Experience />}/>
     <Route path='/projects' element={<Projects />}/>
     <Route path='/contact' element={<Contact />}/>
+    <Route path='/login' element={<Login />}/>
     <Route path='*' element={<NotFound/>}/>
   </Routes>
   </BrowserRouter>
