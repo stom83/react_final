@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "img": "https://i.postimg.cc/gJyzFJqX/rl-latacunga.png",
+    "empresa": "Sistemas de Comunicación Latacunga",
+    "cargo": "Técnico Sistemas ",
+    "fecha_ini": "ago-2009",
+    "fecha_end": "may-2011",
+    "ciudad": "Latacunga",
+    "conocimientos": "Linux, Redes, Soporte Técnico",
+    "actividades": "Instalación de Enlaces Inalámbricos con equipos C-Net, Instalación de Enlaces Inalámbricos con equipos Qp-Com, Instalación de Enlaces Inalámbricos con equipos NanoStation2, Control de Ancho de Banda en Mikrotik, Soporte Técnico en la Red Interna, Cableado estructurado, Trabajo en alturas, Mantenimiento Hardware/Software Equipos de computación"
+  },
+  {
+    "id": 1,
+    "img": "https://i.postimg.cc/V668v54r/fix.jpg",
+    "empresa": "FIX-GROUP",
+    "cargo": "Administrador de redes Wireless",
+    "fecha_ini": "may-2011",
+    "fecha_end": "abr-2012",
+    "ciudad": "Latacunga, Esmeraldas, S.Domingo",
+    "conocimientos": "Cisco, Ubiquiti, Redes Inalámbricas",
+    "actividades": "Instalación y configuración de equipos Airmax, como NanoStation2 & NanoStation5, Instalación y configuración de equipos Cisco. Routers 1841/2621/2811, Configuración de equipos Mikrotik, Administración de equipos Mikrotik. Capa 2 y 3, Actualización de Firmware en Mikrotik, Soporte a nivel de Hardware Routers CISCO 2621/2811, Soporte a nivel de Hardware en Mikrotik, Instalación de Access Point con Mikrotik en Frecuencias 2.4 GHz y 5.8 GHz, Administración de servidor Linux Red-Hat Enterprise 6, Control de ancho de banda mediante CBQ en Linux "
+  },
+  {
+    "id": 2,
+    "img": "https://i.postimg.cc/zXDg7LTc/emseguridad.jpg",
+    "empresa": "Centro de Operaciones de Emergencia Metropolitano",
+    "cargo": "Analista de Tecnología de la Información 2",
+    "fecha_ini": "sep-2014",
+    "fecha_end": "ago-2015",
+    "ciudad": "Quito",
+    "conocimientos": "Linux, Cisco, Telefonía IP, Firewall, Active Directory, CCTV, Virtualización",
+    "actividades": "Instalación y mantenimiento de proyectores en red de sala de conferencia, Administración de servidor Microsoft Windows 2008 Server R2, Help-Desk para usuarios."
+  },
+  {
+    "id": 3,
+    "img": "https://i.postimg.cc/vBNdVMSP/msp.jpg",
+    "empresa": "Ministerio de Salud Pública 05D04",
+    "cargo": "Analista de Tecnología de la Información 2",
+    "fecha_ini": "ago-2015",
+    "fecha_end": "ago-2017",
+    "ciudad": "Saquisilí",
+    "conocimientos": "Linux, Cisco, Telefonía IP, Firewall, Active Directory, CCTV, Virtualización, Citrix, Proxmox, Inuvik",
+    "actividades": "Administración e instalación de sistemas firewall open-source, Administración de RouterOS de Mikrotik x86, Administración de servidor de rayos x basado en Debian, Administración de servidor de manejo de cadáveres basado en Debian,  Administración de servidor Zentyal para Dominio Activo, Implementación de servidores de virtualización."
+  },
+  {
+    "id": 4,
+    "img": "https://i.postimg.cc/x8NVG7w9/istx.jpg",
+    "empresa": "Instituto Superior Tecnológico Cotopaxi",
+    "cargo": "Administrador de Servidores de Virtualización",
+    "fecha_ini": "jul-2018",
+    "fecha_end": "Actualidad",
+    "ciudad": "Latacunga",
+    "conocimientos": "Linux, Cisco, Telefonía IP, Firewall, Active Directory, CCTV, Virtualización, Proxmox, Desarrollo Full Stack, JavaScript, Html5, Css3, React, Base de datos, Python",
+    "actividades": "DOCENTE, Instalación y mantenimiento de aulas y laboratorios de Computación, Administración de central telefónica IP, Administración de Hipervisor de Virtualización Proxmox en modo CLUSTER, Administración de Active Directory 2016, Monitoreo de red bajo Observium, Help Desk, Soporte Remoto, Manejo de Firewall OpenSource, Implementación de servidores de virtualización, Servidores Linux."
+  }
+]
